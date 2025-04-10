@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+CIS student at Borough of Manhattan Community College.
 <!--
 **bryan-zhong46/bryan-zhong46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
